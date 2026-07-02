@@ -10,6 +10,8 @@ conditions a rectified-flow video-world model on the retrieved **future frames**
 retrieved action chunk. See [NOTICE.md](NOTICE.md) for attribution and
 [DATA_MANIFEST.md](DATA_MANIFEST.md) for the exact HF file lists.
 
+> **Project page:** https://recap-robot.github.io/
+
 > Released artifacts:
 > - **Checkpoint** (model repo): [`Jeongeun/ReCAP-Cosmos2.5-pusht`](https://huggingface.co/Jeongeun/ReCAP-Cosmos2.5-pusht)
 > - **Dataset** (dataset repo): [`Jeongeun/ReCAP-Cosmos2.5-pusht`](https://huggingface.co/datasets/Jeongeun/ReCAP-Cosmos2.5-pusht)
