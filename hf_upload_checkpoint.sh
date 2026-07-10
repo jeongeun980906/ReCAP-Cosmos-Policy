@@ -1,4 +1,8 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: Copyright (c) 2026 Jeongeun Park et al. (ReCAP).
+# SPDX-License-Identifier: Apache-2.0
+# Part of ReCAP, built on NVIDIA Cosmos Policy (Apache-2.0). See NOTICE.md.
+
 # hf_upload_checkpoint.sh — upload the trained PushT-RAG residual checkpoint to HF.
 #
 # Usage:

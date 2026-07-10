@@ -1,5 +1,8 @@
 # Setup Guide
 
+> _This guide is adapted from [Cosmos Policy](https://github.com/NVlabs/cosmos-policy)
+> (Apache-2.0) and modified for the ReCAP project. See [NOTICE.md](NOTICE.md)._
+
 ## System Requirements
 
 * NVIDIA GPU with CUDA support

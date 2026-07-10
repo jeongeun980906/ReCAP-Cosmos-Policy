@@ -11,6 +11,14 @@
 # projects, please contact the Deep Imagination Research Team at
 # dir@exchange.nvidia.com.
 # -----------------------------------------------------------------------------
+#
+# -----------------------------------------------------------------------------
+# Modifications Copyright (c) 2026 Jeongeun Park et al. (ReCAP).
+# This file is derived from NVIDIA Cosmos Policy
+# (https://github.com/NVlabs/cosmos-policy) and was modified for the ReCAP
+# project (https://github.com/jeongeun980906/ReCAP-Cosmos-Policy).
+# Modifications are released under the Apache License, Version 2.0. See NOTICE.md.
+# -----------------------------------------------------------------------------
 
 from dataclasses import dataclass
 from typing import Tuple

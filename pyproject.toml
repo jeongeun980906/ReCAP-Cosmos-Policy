@@ -12,6 +12,12 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# -----------------------------------------------------------------------------
+# Modifications Copyright (c) 2026 Jeongeun Park et al. (ReCAP).
+# Modified from NVIDIA Cosmos Policy (https://github.com/NVlabs/cosmos-policy) for
+# the ReCAP project (PushT deps and project metadata). See NOTICE.md.
+# -----------------------------------------------------------------------------
 
 [build-system]
 requires = ["hatchling"]

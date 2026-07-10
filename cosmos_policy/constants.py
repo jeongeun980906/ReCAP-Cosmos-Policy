@@ -12,6 +12,14 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# -----------------------------------------------------------------------------
+# Modifications Copyright (c) 2026 Jeongeun Park et al. (ReCAP).
+# This file is derived from NVIDIA Cosmos Policy
+# (https://github.com/NVlabs/cosmos-policy) and was modified for the ReCAP
+# project (https://github.com/jeongeun980906/ReCAP-Cosmos-Policy).
+# Modifications are released under the Apache License, Version 2.0. See NOTICE.md.
+# -----------------------------------------------------------------------------
 
 """
 Important constants for Cosmos Policy training and evaluation.

@@ -1,4 +1,8 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: Copyright (c) 2026 Jeongeun Park et al. (ReCAP).
+# SPDX-License-Identifier: Apache-2.0
+# Part of ReCAP, built on NVIDIA Cosmos Policy (Apache-2.0). See NOTICE.md.
+
 # train_and_eval_pusht_rag.sh — train the residual RAG PushT policy, then eval 9 configs.
 #
 #   experiment : cosmos_predict2p5_2b_480p_pusht_ret_top100_residual

@@ -1,4 +1,8 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: Copyright (c) 2026 Jeongeun Park et al. (ReCAP).
+# SPDX-License-Identifier: Apache-2.0
+# Part of ReCAP, built on NVIDIA Cosmos Policy (Apache-2.0). See NOTICE.md.
+
 # eval_pusht_rag.sh — evaluate the residual RAG PushT policy across 9 visual configs.
 #
 # Live retrieval from the demo pool (no precomputed retrieval files needed at eval).
